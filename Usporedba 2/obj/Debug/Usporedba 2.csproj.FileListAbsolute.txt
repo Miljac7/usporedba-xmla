@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\Usporedba 2\Usporedba 2\bin\Debug\Usporedba 2.exe.config
+C:\Users\Ucenik\source\repos\Usporedba 2\Usporedba 2\bin\Debug\Usporedba 2.exe
+C:\Users\Ucenik\source\repos\Usporedba 2\Usporedba 2\bin\Debug\Usporedba 2.pdb
+C:\Users\Ucenik\source\repos\Usporedba 2\Usporedba 2\obj\Debug\Usporedba 2.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Usporedba 2\Usporedba 2\obj\Debug\Usporedba 2.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Usporedba 2\Usporedba 2\obj\Debug\Usporedba 2.exe
+C:\Users\Ucenik\source\repos\Usporedba 2\Usporedba 2\obj\Debug\Usporedba 2.pdb
